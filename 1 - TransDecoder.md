@@ -1,4 +1,4 @@
-# 1 - TransDecoder
+# 01 - TransDecoder
 
 #Command line used in TransDecoder#
 
